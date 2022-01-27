@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-12-17T08:54:53.1935138Z;True|2021-12-17T11:29:47.5449564+03:00;True|2021-12-17T11:27:03.4943405+03:00;True|2021-12-17T11:08:46.0819505+03:00;True|2021-12-17T11:06:02.2908692+03:00;True|2021-12-17T10:44:03.2638973+03:00;True|2021-12-17T10:38:36.0179564+03:00;</History>
+  </PropertyGroup>
+</Project>
