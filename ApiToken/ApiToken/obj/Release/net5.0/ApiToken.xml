@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiToken</name>
+    </assembly>
+    <members>
+        <member name="M:ApiToken.Controllers.City.SecureCityList(System.String)">
+            <summary>
+            Token zorunlu..
+            </summary>
+            <returns>City</returns>
+        </member>
+        <member name="M:ApiToken.Controllers.City.CityList">
+            <summary>
+            Token zorunlu degil.. Herkes kullanabilir.
+            </summary>
+            <returns>City</returns>
+        </member>
+        <member name="M:ApiToken.Controllers.TokenController.Login(ApiToken.Controllers.Token)">
+            <summary>
+            Kullanıcı adı ve şifre gönderiniz..
+            </summary>
+            <param name="request"></param>
+            <returns>Token</returns>
+        </member>
+    </members>
+</doc>

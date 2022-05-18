@@ -7,6 +7,7 @@ C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\ApiToken.runti
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\ApiToken.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\ref\ApiToken.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\ApiToken.pdb
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\ApiToken.xml
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Humanizer.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
@@ -22,7 +23,10 @@ C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.Iden
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -40,10 +44,12 @@ C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\runtimes\win-x
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.csproj.AssemblyReference.cache
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.AssemblyInfoInputs.cache
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.AssemblyInfo.cs
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.csproj.CoreCompileInputs.cache
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\scopedcss\bundle\ApiToken.styles.css
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\staticwebassets\ApiToken.StaticWebAssets.Manifest.cache
@@ -51,12 +57,6 @@ C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.Razor
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.csproj.CopyComplete
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ref\ApiToken.dll
+C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.xml
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.pdb
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.genruntimeconfig.cache
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Debug\net5.0\ApiToken.csproj.AssemblyReference.cache
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\System.Net.Http.Formatting.dll
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\System.Web.Http.dll
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\System.Web.Http.WebHost.dll
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\Swashbuckle.Core.dll
-C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Debug\net5.0\WebActivatorEx.dll
