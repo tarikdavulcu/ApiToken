@@ -24,7 +24,7 @@ namespace ApiToken.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=Api;User Id=sa;Password=20342034T-d?;MultipleActiveResultSets=true");
+                optionsBuilder.UseSqlServer("Server=.;Database=Api;User Id=sa;Password=ŞifreniziGiriniz;MultipleActiveResultSets=true");
             }
         }
 
