@@ -60,3 +60,6 @@ C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Release\net5.0\Swashbuckle.
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Release\net5.0\ApiToken.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tdavulcu\source\repos\ApiToken\ApiToken\obj\Release\net5.0\ApiToken.xml
+C:\Users\tarik\OneDrive\Belgeler\GitHub\ApiToken\ApiToken\ApiToken\obj\Release\net5.0\ApiToken.dll
+C:\Users\tarik\OneDrive\Belgeler\GitHub\ApiToken\ApiToken\ApiToken\obj\Release\net5.0\ApiToken.xml
+C:\Users\tarik\OneDrive\Belgeler\GitHub\ApiToken\ApiToken\ApiToken\obj\Release\net5.0\ApiToken.pdb

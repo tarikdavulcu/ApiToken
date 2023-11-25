@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\swagger-custom\\Script.js",
+      "PackagePath": "staticwebassets\\swagger-custom\\Script.js"
+    },
+    {
+      "Id": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\swagger-custom\\Style.css",
+      "PackagePath": "staticwebassets\\swagger-custom\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\swagger-custom\\logo.png",
+      "PackagePath": "staticwebassets\\swagger-custom\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ApiToken.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ApiToken.props",
+      "PackagePath": "build\\ApiToken.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiToken.props",
+      "PackagePath": "buildMultiTargeting\\ApiToken.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ApiToken.props",
+      "PackagePath": "buildTransitive\\ApiToken.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

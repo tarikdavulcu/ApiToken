@@ -1,43 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tdavulcu\\source\\repos\\ApiToken\\ApiToken\\ApiToken.csproj": {}
+    "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\ApiToken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tdavulcu\\source\\repos\\ApiToken\\ApiToken\\ApiToken.csproj": {
+    "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\ApiToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tdavulcu\\source\\repos\\ApiToken\\ApiToken\\ApiToken.csproj",
+        "projectUniqueName": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\ApiToken.csproj",
         "projectName": "ApiToken",
-        "projectPath": "C:\\Users\\tdavulcu\\source\\repos\\ApiToken\\ApiToken\\ApiToken.csproj",
-        "packagesPath": "C:\\Users\\tdavulcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tdavulcu\\source\\repos\\ApiToken\\ApiToken\\obj\\",
+        "projectPath": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\ApiToken.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tdavulcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -98,7 +92,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -110,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

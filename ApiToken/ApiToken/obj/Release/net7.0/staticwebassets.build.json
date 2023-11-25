@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "2jcCfzO9F05DeRDHqQM0YR+GJCYEziCr/lm6ePAtus8=",
+  "Source": "ApiToken",
+  "BasePath": "_content/ApiToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiToken\\wwwroot",
+      "Source": "ApiToken",
+      "ContentRoot": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\",
+      "BasePath": "_content/ApiToken",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\swagger-custom\\logo.png",
+      "SourceId": "ApiToken",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\",
+      "BasePath": "_content/ApiToken",
+      "RelativePath": "swagger-custom/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-custom\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\swagger-custom\\Script.js",
+      "SourceId": "ApiToken",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\",
+      "BasePath": "_content/ApiToken",
+      "RelativePath": "swagger-custom/Script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-custom\\Script.js"
+    },
+    {
+      "Identity": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\swagger-custom\\Style.css",
+      "SourceId": "ApiToken",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarik\\OneDrive\\Belgeler\\GitHub\\ApiToken\\ApiToken\\ApiToken\\wwwroot\\",
+      "BasePath": "_content/ApiToken",
+      "RelativePath": "swagger-custom/Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-custom\\Style.css"
+    }
+  ]
+}
